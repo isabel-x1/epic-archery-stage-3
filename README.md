@@ -1,1 +1,1 @@
-# epic-archery-stage-3
+# project-C26-template
